@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(to left,#0a4006,#82e26b);
+}
+h1{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    /*margin-left: 610px;*/
+}
+a{
+    color: antiquewhite;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    /*margin-left: 690px;*/
+}
+img{
+    margin-top: 40px;
+    /*margin-left: 630px;*/
+    height: 40vh;
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+    
+}
